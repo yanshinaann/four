@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>export.png</file>
+        <file>import.png</file>
+        <file>log.png</file>
+        <file>start.png</file>
+        <file>stop.png</file>
+    </qresource>
+</RCC>
